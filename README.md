@@ -104,12 +104,13 @@ Imagine a notebook that everyone in the class shares and updates together. No si
 •	Overall Winner (balanced): Claude Role-based or ChatGPT Few-shot
 
 ## Result (Sample Representation Table)
+```
 Platform	Technique	Accuracy	Coherence	Simplicity	Speed	UX	Avg. Score
 ChatGPT	Zero-shot	4.5	4.2	4.0	4.5	4.3	4.3
 ChatGPT	Few-shot	4.8	4.6	4.5	4.2	4.6	4.5
 Gemini	CoT	4.2	4.5	4.0	4.1	4.0	4.2
 Claude	Role-based	4.6	4.7	4.8	4.3	4.7	4.6
 Copilot	Zero-shot	3.9	4.0	3.8	4.6	3.9	4.0
-
+```
 
 
