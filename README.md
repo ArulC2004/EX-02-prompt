@@ -1,27 +1,3 @@
-# EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
-
-## AIM
-To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
-
-## Scenario:
-You are part of a content curation team for an educational platform that delivers quick summaries of research papers to undergraduate students. Your task is to summarize a 500-word technical article on "The Basics of Blockchain Technology" using multiple AI platforms and prompting strategies.
-
-Your goal is to determine which combination of prompting technique + platform provides the best summary in terms of:
-
-Accuracy
-
-Coherence
-
-Simplicity
-
-Speed
-
-User experience
-
-## Algorithm
-
-## Result
-
 
 # Name: Avinesh P
 # Reg.NO: 212222060022
@@ -104,13 +80,15 @@ Imagine a notebook that everyone in the class shares and updates together. No si
 •	Overall Winner (balanced): Claude Role-based or ChatGPT Few-shot
 
 ## Result (Sample Representation Table)
-```
-Platform	Technique	Accuracy	Coherence	Simplicity	Speed	UX	Avg. Score
-ChatGPT	Zero-shot	4.5	4.2	4.0	4.5	4.3	4.3
-ChatGPT	Few-shot	4.8	4.6	4.5	4.2	4.6	4.5
-Gemini	CoT	4.2	4.5	4.0	4.1	4.0	4.2
-Claude	Role-based	4.6	4.7	4.8	4.3	4.7	4.6
-Copilot	Zero-shot	3.9	4.0	3.8	4.6	3.9	4.0
-```
+## Result (Sample Representation Table)
+
+| Platform | Technique   | Accuracy | Coherence | Simplicity | Speed | UX  | Avg. Score |
+|----------|-------------|----------|-----------|------------|-------|-----|------------|
+| ChatGPT  | Zero-shot   | 4.5      | 4.2       | 4.0        | 4.5   | 4.3 | 4.3        |
+| ChatGPT  | Few-shot    | 4.8      | 4.6       | 4.5        | 4.2   | 4.6 | 4.5        |
+| Gemini   | CoT         | 4.2      | 4.5       | 4.0        | 4.1   | 4.0 | 4.2        |
+| Claude   | Role-based  | 4.6      | 4.7       | 4.8        | 4.3   | 4.7 | 4.6        |
+| Copilot  | Zero-shot   | 3.9      | 4.0       | 3.8        | 4.6   | 3.9 | 4.0        |
+
 
 
