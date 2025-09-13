@@ -1,7 +1,9 @@
 
+# EX-02 – Cross-Platform Prompting: Evaluating Diverse Techniques in AI-Powered Text Summarization
+
 # Name: ARUL C
 # Reg.NO: 212222030003
-# EX-02 – Cross-Platform Prompting: Evaluating Diverse Techniques in AI-Powered Text Summarization
+
 # AIM
 To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (ChatGPT, Gemini, Claude, Copilot) in summarizing technical text, focusing on accuracy, coherence, simplicity, speed, and user experience.
 
